@@ -6,3 +6,4 @@
 - Phase 0, Lessons 08 Editor Setup and 10 Terminal: done
 - Phase 0, Lesson 09 Data Management: done
 - Phase 0, Lessons 11 Linux and 12 Debugging: done
+- Phase 0, Lesson 13 Python for AI Engineering: demo and tests pass
